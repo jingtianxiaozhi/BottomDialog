@@ -2,7 +2,7 @@
 友盟分享的对话框(从底部弹出):友盟分享等相关API已经嵌入到了Dialog中，只需要在Activity中写少量的代码，即可完成分享。
 
 #效果
-<img src="https://github.com/jingtianxiaozhi/BottomDialog/blob/master/pic/bottom_dialog.jpg?raw=true" height="480" width="270"/>
+<img src="https://github.com/jingtianxiaozhi/BottomDialog/blob/master/pic/bottom_dialog.jpg?raw=true" height="480" width="300"/>
 
 
 #How To Use(Too Simple)
